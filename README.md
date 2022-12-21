@@ -4,9 +4,9 @@
   <a href="https://github.com/viniciuskuwakino">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuskuwakino&show_icons=true&theme=dracula"/>
   </a>
-  <a href="https://github.com/viniciuskuwakino">
+<!--   <a href="https://github.com/viniciuskuwakino">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuskuwakino&langs_count=6&layout=compact&theme=dracula"/>
-  </a>
+  </a> -->
 </div>
 
 <div align="center">
