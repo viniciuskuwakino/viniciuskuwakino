@@ -9,10 +9,10 @@
 
 <div style="display: inline_block" align="left">
     <a href="https://github.com/viniciuskuwakino">
-    	<img height="220em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=viniciuskuwakino&show_icons=true&theme=dracula"/>
+    	<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=viniciuskuwakino&show_icons=true&theme=dracula"/>
     </a>
     <a style="margin-left: 50px">
-        <img height="220em" alt="Night Coding" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif"/>
+        <img height="180em" alt="Night Coding" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif"/>
     </a>
 </div>
 
