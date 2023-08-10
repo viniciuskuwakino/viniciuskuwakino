@@ -8,10 +8,9 @@
 
 <div style="display: inline_block" align="left">
     <a href="https://github.com/viniciuskuwakino">
-    	<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=viniciuskuwakino&show_icons=true&theme=dracula"/>
+    	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciuskuwakino&show_icons=true&theme=radical"/>
     </a>
 </div>
-
 
 ### 🚀 Languages and Techs
 
