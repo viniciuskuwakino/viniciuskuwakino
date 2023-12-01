@@ -2,7 +2,7 @@
 
 📚 I'm a student of Computer Science at <a href="http://www.utfpr.edu.br">Federal University of Technology – Paraná</a> \
 💡 I like to explore new technologies and develop software solutions \
-🌱 I'm currently learning more about Laravel and VueJS
+🌱 I'm currently learning more about Java and Spring
 
 ### 📊 GitHub Stats
 
