@@ -7,7 +7,7 @@
 ### 🚀 Languages and Techs
 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,vue,ts,laravel,php,py,terraform,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,vue,ts,laravel,php,py,docker,terraform,aws" />
 </a>
 
 ### 📫 Reach me at
